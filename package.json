@@ -4,7 +4,7 @@
   "description": "Utility to calculate working hours and get due dates.",
   "main": "index.js",
   "scripts": {
-    "test": "babel-node test/test.js | faucet"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
